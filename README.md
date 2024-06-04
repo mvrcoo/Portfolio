@@ -1,5 +1,5 @@
 # Welcome to my project page!
-I am currently a Senior at California State Polytechnic University, at Pomona, California. My Major is [Business Administration (Finance, Real Estate, Law)](https://www.cpp.edu/cba/finance-real-estate-and-law/curriculum/index.shtml) with emphasis in Finance.
+I graduated from California State Polytechnic University, in Pomona, California. I have a Bachelor's degree is [Business Administration (Finance, Real Estate, Law)](https://www.cpp.edu/cba/finance-real-estate-and-law/curriculum/index.shtml) with an emphasis in Finance.
 
 # Resume
-Here is a copy of my [resume](https://drive.google.com/file/d/1udN4506e2jkh-7tqOOqRTdCLUly8-3Kq/view?usp=sharing).
+Here is a copy of my [resume](https://docs.google.com/document/d/1kySjZSbu9CH9jgSfQ6Qj2B12ounHbMrU/edit?usp=sharing&ouid=106706898902291921859&rtpof=true&sd=true).
